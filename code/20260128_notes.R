@@ -4,8 +4,9 @@
 library(tidyverse)
 
 #load data
-sample_data <- read.csv("~/Desktop/ontario-report/sample_data.csv")
-View(sample_data)
+sample_data <- read.csv("~/Desktop/ontario-report/data/sample_data.csv")
+summerize (sample_data, 
+           mean_cells = mean(cells_per_ml))
 
 # no inputs/arguments needed
 getwd()
