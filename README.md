@@ -6,3 +6,4 @@ Lake ontario microbial and environment analysis
 
 **Date:** Spring 2026 Semester
 
+Adding another line hereto udpate the github testing the sync
